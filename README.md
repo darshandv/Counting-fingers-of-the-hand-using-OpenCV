@@ -1,4 +1,4 @@
-#Counting fingers using OpenCV
+# Counting fingers using OpenCV
 
 OpenCV is an open-source library which helps in image processing and video analysis. This library is used to achieve my result. The entire code is written in python3.
 Using the webcam the number of fingers is calculated for the captured frame with a hand.
