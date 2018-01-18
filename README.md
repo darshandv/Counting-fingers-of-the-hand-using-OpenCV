@@ -1,6 +1,6 @@
 #Counting fingers using OpenCV
 
-OpenCV is an open-source library which helps in image processing and video analysis. This library is used to achieve the result. The entire code is written in python3.
+OpenCV is an open-source library which helps in image processing and video analysis. This library is used to achieve my result. The entire code is written in python3.
 Using the webcam the number of fingers is calculated for the captured frame with a hand.
 
 The steps in the implementation :
@@ -10,5 +10,5 @@ The steps in the implementation :
 1. It is then filtered and blurred , the largest contour is found , fingers are calculated for that contour.
 1. Two video analysis - outputs are shown :
     1. The blurred image of the hand captured.
-    1. The way the algorithm modifies it for calculation ( with contours drawn).
+    1. The way the algorithm modifies it for calculation ( with contours drawn ).
 1. The output is shown on the terminal.
